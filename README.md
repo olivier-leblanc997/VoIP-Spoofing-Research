@@ -7,7 +7,7 @@ This repository presents a comprehensive examination of VoIP caller ID spoofing 
 
 By analyzing typical setups and tools, this project sheds light on the vulnerabilities within the VoIP ecosystem and highlights methods that scammers employ to evade detection and automate fraud. 
 
-**Note:** This repository does not provide operational scripts or exploits. Instead, it documents the concepts, workflows, and tooling that malicious actors might use, including a SIP provider setup hosted on [voizhen.com](https://voizhen.com). This allows safe research and experimentation aimed at disrupting scam networks.
+**Note:** This repository does not provide operational scripts or exploits. Instead, it documents the concepts, workflows, and tooling that malicious actors might use, including a SIP provider setup hosted on [voizhen.com](https://voizhen.com) or [sip24.cc](https://sip24.cc). This allows safe research and experimentation aimed at disrupting scam networks.
 
 ---
 
